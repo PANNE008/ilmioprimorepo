@@ -4,3 +4,8 @@ questo è il mio primo repository git lo imparerò nelle lezioni di tps
 ieri ho mangiato una mela
 ### il mio secondo sottotitolo
 ahahahahaha
+## Fermate della Metro di Milano
+### Metro Gialla
+- COMASINA
+- AFFORI FN
+- AFFORI CENTRO

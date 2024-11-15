@@ -3,7 +3,7 @@ questo è il mio primo repository git lo imparerò nelle lezioni di tps
 ## il mio primo sottotitolo markdownt
 ieri ho mangiato una melj
 ### il mio secondo sottotitolo
-ieri ho giocato alla plau
+ieri ho giocato alla plad
 ## Fermate della Metro di Milano
 ### Metro Gialla
 - COMASINA

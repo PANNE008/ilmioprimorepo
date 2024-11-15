@@ -1,7 +1,7 @@
 # ilmioprimorepo
 questo è il mio primo repository git lo imparerò nelle lezioni di tps
 ## il mio primo sottotitolo markdownt
-ieri ho mangiato una mela
+ieri ho mangiato una melo
 ### il mio secondo sottotitolo
 ieri ho giocato alla play
 ## Fermate della Metro di Milano

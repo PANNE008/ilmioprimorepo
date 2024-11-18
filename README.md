@@ -14,16 +14,28 @@ ieri ho giocato alla play
 - ZARA
 - SONDRIO
 - CENTRALE FS
-- REPUBBLICA
-- TURATI
-- MONTENAPOLEONE
-- DUOMO
-- MISSORI
-- CROCETTA
-- PORTA ROMANA
-- LODI T.I.B.B.
-- BRENTA
-- CORVETTO
-- PORTO DI MARE
-- SCALO SAN DONATO
-- SAN DONATO
+### Metro Verde
+- Cernusco
+- Cimiano
+- Cologno Centro
+- Cologno Nord
+- Cologno Sud
+- Crescenzago
+- Famagosta
+- Garibaldi
+- Gessate
+- Gioia
+- Gorgonzola
+- Lambrate
+- Lanza
+- Loreto
+- Moscova
+- Piola
+- Porta Genova
+- Romolo
+- S.Agostino
+- S.Ambrogio
+- Udine
+- Villa Fiorita
+- Villa Pompea
+- Vimodrone

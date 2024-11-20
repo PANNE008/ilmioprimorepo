@@ -6,7 +6,7 @@ ieri ho mangiato una mela
 ieri ho giocato alla play
 ## Fermate della Metro di Milano
 ### Metro Gialla
-- COMASINA
+- COMASINa
 - AFFORI FN
 - AFFORI CENTRO
 - DERGANO

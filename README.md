@@ -8,7 +8,7 @@ ieri ho giocato alla play
 ### Metro Gialla
 - COMASINA
 - AFFORI FN
-- AFFORI CENTRO
+- AFFORI CENTR
 - DERGANO
 - MACIACHINI
 - ZARA

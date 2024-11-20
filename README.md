@@ -19,4 +19,22 @@ ieri ho giocato alla plau
 - MONTENAPOLEONE
 - DUOMO
 ### Metro Rossa
-- SAN BABILA
+- Gambara
+- Gorla
+- Inganni
+- Lampugnano
+- Lima
+- Loreto
+- Lotto
+- Molino Dorino
+- Pagano
+- Palestro
+- Pasteur
+- Pero
+- Porta Venezia
+- Precotto
+- Primaticcio
+- QT8
+- Rho Fiera
+- Rovereto
+- San Babila

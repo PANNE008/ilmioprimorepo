@@ -9,7 +9,7 @@ ieri ho giocato alla play
 - COMASINA
 - AFFORI FN
 - AFFORI CENTRO
-- DERGANo
+- DERGANO
 - MACIACHINI
 - ZARA
 - SONDRIO
